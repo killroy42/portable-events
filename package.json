@@ -1,6 +1,6 @@
 {
   "name": "portable-events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple, node/browser compatible generic event system",
   "main": "index.js",
   "scripts": {

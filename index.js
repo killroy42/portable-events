@@ -1,5 +1,5 @@
 /*!
- * TinyEvent v0.0.1 | MIT License | github.com/killroy42
+ * TinyEvent v1.0.1 | MIT License | github.com/killroy42
  *
  */
  (function() {
